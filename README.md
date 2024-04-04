@@ -9,3 +9,6 @@
 # Welcome to ENTR-451
 
 This is an example of a GitHub repository.
+This is a change to the readme file 
+this is another change to the readme file
+another change is occuring 
